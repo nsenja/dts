@@ -3,7 +3,7 @@
 $server = "localhost";
 $user = "root";
 $password = "";
-$nama_database = "dts";
+$nama_database = "uts_cloud";
 
 $db = mysqli_connect($server, $user, $password, $nama_database);
 
